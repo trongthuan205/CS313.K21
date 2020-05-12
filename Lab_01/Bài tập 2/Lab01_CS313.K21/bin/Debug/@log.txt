@@ -1,0 +1,6 @@
+Thuộc tính Age: mien gia tri moi [0,1]
+Thuộc tính  Fnlwgt: mien gia tri moi [0,1]
+Thuộc tính  Education - num: mien gia tri moi [0,1]
+Thuộc tính  Capital - gain: mien gia tri moi [0,1]
+Thuộc tính  Capital - loss: mien gia tri moi [0,1]
+Thuộc tính  Hour - per - week: mien gia tri moi [0,1]
